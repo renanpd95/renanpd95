@@ -4,6 +4,7 @@
 - 💻 Estudante de Front End
 - 🌱 Procurando uma oportunidade na Área
 - 💕 Apaixonado por tecnologia 
+- 🛠  Projetos no Github em construção....
 - 💬 Contate-me no e-mail:renandomiiciano95@gmail.com
 <div>
   <a href="https://github.com/renanpd95">

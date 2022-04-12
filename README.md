@@ -17,7 +17,7 @@
     <img align="center" alt="renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <iframe src="https://giphy.com/embed/QxjYIG40lpjkEDbARF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a            href="https://giphy.com/gifs/nasa-nasareactions-QxjYIG40lpjkEDbARF">via GIPHY</a></p>
+    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QxjYIG40lpjkEDbARF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nasa-nasareactions-QxjYIG40lpjkEDbARF">via GIPHY</a></p>
     //<img align="right" alt="Renan-imagem" src="https://c.tenor.com/h5pnzydlw1MAAAAC/thumbs-up-waynes-world.gif">
   </div>
   <br/>

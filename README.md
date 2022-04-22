@@ -1,11 +1,16 @@
-### OLÁ, SEJA BEM VINDO! EU SOU O RENAN👋👨‍💻
-
-
-- 💻 Estudante de Front End
+  ____             _             ____                        __     __  _               _         
+ / ___|    ___    (_)   __ _    | __ )    ___   _ __ ___     \ \   / / (_)  _ __     __| |   ___  
+ \___ \   / _ \   | |  / _` |   |  _ \   / _ \ | '_ ` _ \     \ \ / /  | | | '_ \   / _` |  / _ \ 
+  ___) | |  __/   | | | (_| |   | |_) | |  __/ | | | | | |     \ V /   | | | | | | | (_| | | (_) |
+ |____/   \___|  _/ |  \__,_|   |____/   \___| |_| |_| |_|      \_/    |_| |_| |_|  \__,_|  \___/ 
+                |__/                                                                              
+ OLÁ, EU SOU O RENAN👋👨‍💻
+- 💻 Estudante de Programação
 - 🌱 Procurando uma oportunidade na Área
 - 💕 Apaixonado por tecnologia 
-- 🛠  Projetos no Github em construção....
-- 💬 Contate-me no e-mail:renandomiiciano95@gmail.com
+- 👨‍🎓 Cursando Programação no Instituto Federal Salto/SP (IFSP)
+- 🛠 Projetos no Github em construção....
+- 💬Contate-me no e-mail:renandomiiciano95@gmail.com
 <div>
   <a href="https://github.com/renanpd95">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanpd95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

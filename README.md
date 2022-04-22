@@ -1,5 +1,5 @@
 
-   𝕊𝔼𝕁𝔸 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆                                                      
+ 🆂🅴🅹🅰 🅱🅴🅼 🆅🅸🅽🅳🅾                                                    
  OLÁ, EU SOU O RENAN👋👨‍💻
 - 💻 Estudante de Programação
 - 🌱 Procurando uma oportunidade na Área

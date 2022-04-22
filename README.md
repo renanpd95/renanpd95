@@ -1,6 +1,7 @@
 
  🆂🅴🅹🅰 🅱🅴🅼 🆅🅸🅽🅳🅾                                                    
- OLÁ, EU SOU O RENAN👋👨‍💻
+ 
+ Olá, eu sou o Renan👋👨‍💻
 - 💻 Estudante de Programação
 - 🌱 Procurando uma oportunidade na Área
 - 💕 Apaixonado por tecnologia 
